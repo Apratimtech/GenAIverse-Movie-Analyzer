@@ -1,7 +1,7 @@
 # GenAIverse-Movie-Analyzer
 AI-powered movie analysis tool for GenAIverse Hackathon
 # 🎬 GenAIverse Movie Analyzer
-**Hackathon Submission by [Your Name]**
+**Hackathon Submission by [APRATIM RASHMI]**
 
 ![Demo](images/output_screenshot.png)
 
